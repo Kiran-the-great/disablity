@@ -1,0 +1,30 @@
+{
+  "patients": [
+    {"id": 1, "name": "Micky", "phone_number": "+972532208231",
+        "prescription":"Aspirin", "status": "not ready"
+    },
+    {"id": 2, "name": "Benjamin", "phone_number": "+972532208231",
+        "prescription":"Pepto-Bismol", "status": "ready"
+    },
+    {"id": 3, "name": "Richard", "phone_number": "+972532208231"
+    }
+  ],
+  "pharmacies": [
+    {
+      "country": "Israel",
+      "location": "Sheinkin St 11, Tel Aviv-Yafo, Israel"
+    },
+    {
+      "country": "France",
+      "location": "Pl. Charles de Gaulle, 75008 Paris, France"
+    },
+    {
+      "country": "UK",
+      "location": "Piccadilly Circus, London W1B, UK"
+    },
+    {
+      "country": "Germany",
+      "location": "Pariser Platz, 10117 Berlin, Germany"
+    }
+  ]
+}
