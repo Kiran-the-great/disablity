@@ -1,10 +1,10 @@
 {
   "customer": {
     {"email_id": "robert@gmail.com", "name": "Robert", "illness":"ADHD", "dependency":"High",
-        "no_of_tasks":"3"},
+        "no_of_tasks":3},
     {"email_id": "bhalla@gmail.com", "name": "Bhalla", "illness":"Dementia", "dependency":"Medium",
-        "no_of_tasks":"2"},
+        "no_of_tasks":2},
     {"email_id": "rgv@gmail.com", "name": "Ram", "illness":"Anxiety", "dependency":"Low",
-        "no_of_tasks":"1"}
+        "no_of_tasks":1}
 }
 }
